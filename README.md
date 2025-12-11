@@ -1,4 +1,4 @@
-# Wrobit assets and utilities
+# Wrobit Central Hub
 
 A centralized repository for all Wrobit company assets and utilities. This repository contains shared resources, tools, and utilities used across various Wrobit projects and teams.
 
@@ -10,6 +10,7 @@ A centralized repository for all Wrobit company assets and utilities. This repos
 wrobit-assets/
 ├── assets/
 ├── utilities/
+├── concepts/
 ├── .prettierrc
 ├── .gitignore
 ├── README.md
@@ -19,11 +20,12 @@ wrobit-assets/
 
 This repository serves as the central hub for:
 
-- **Shared Assets**: Common resources used across Wrobit projects
+- **Shared Assets**: Common resources used across projects
 - **Utilities**: Reusable tools and helper functions
 - **Brand Assets**: Company branding materials and guidelines
 - **Templates**: Standardized templates for various use cases
 - **Configuration Files**: Shared configuration and setup files
+- **Concepts of products and apps**: Markdown files with concepts documentations
 
 ## Usage
 
@@ -35,4 +37,4 @@ All content in this repository is proprietary to Wrobit. Unauthorized use, distr
 
 ---
 
-For questions or access requests, please contact the Wrobit development team.
+For questions or access requests, please contact Piotr Wrobel.
