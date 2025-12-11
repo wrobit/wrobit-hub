@@ -1,4 +1,4 @@
-# Wrobit Central Hub
+# Wrobit Hub
 
 A centralized repository for all Wrobit company assets and utilities. This repository contains shared resources, tools, and utilities used across various Wrobit projects and teams.
 
